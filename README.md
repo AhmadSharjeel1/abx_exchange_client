@@ -15,9 +15,9 @@ A C++ client for interacting with the ABX Mock Exchange Server.
 
 
 ## for build this  
-cmake -B build 
-cmake --build build -jn
-./abx_client
+- cmake -B build 
+- cmake --build build -jn
+- ./abx_client
 
 
 ## Output
