@@ -14,13 +14,12 @@ A C++ client for interacting with the ABX Mock Exchange Server.
    cd abx_exchange_client
 
 
-
-for build this 
+## for build this  
 cmake -B build 
 cmake --build build -jn
 ./abx_client
 
 
-Output
+## Output
 The client requests data from the ABX exchange server and stores it in stock_data.json.
 
